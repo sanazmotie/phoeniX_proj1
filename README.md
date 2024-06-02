@@ -3,9 +3,9 @@ Computer Organization - Spring 2024
 ## Iran Univeristy of Science and Technology
 ## Assignment 1: Assembly code execution on phoeniX RISC-V core
 
-- Name: Elham Estiry
-- Team Members: Yasaman Nemati / Sanaz motie
-- Student ID: 99411065
+- Name: Sanaz motie
+- Team Members: Yasaman Nemati / Elham Estiry
+- Student ID: 99413082
 - Date: 28/05/2024
 
 ## Report
